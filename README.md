@@ -1,3 +1,5 @@
+STUDENT MANAGEMENT SYSTEM
+---------------------------------------------------------------------------------
 This is simple student management system project by using shell scripting. By this project or program we can automate the manual track of student management. For example studnts enrollment, teacher assign, multiple teacher marks update, etc. By this program we can do that easily. Because of using the CSV file as the database we woulden't loose any data and we can perform operation realtime.
 
 This project is for those we are excited and learning shell scripting and want to automate a simple and robust project. You and clone/fork this project and update it. Yes!! there is lots of places where I made mistakes and because of the time I wouden't correct them. Couse I need to submit the project.
